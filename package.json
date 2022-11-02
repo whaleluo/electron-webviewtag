@@ -1,0 +1,16 @@
+{
+  "name": "electron-webviewtag-ipc-demo",
+  "version": "1.0.0",
+  "description": "electron-webviewtag-ipc-demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jingyu",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^11.5.0"
+  }
+}
